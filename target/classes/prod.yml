@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: MySpringBootApp
+  datasource:
+    url: jdbc:postgresql://junction.proxy.rlwy.net:39440/railway
+    username: postgres
+    password: TmUTMefvuTKWeCVHmzeiKyxYNTPqWQqP
